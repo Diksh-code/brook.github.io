@@ -98,7 +98,7 @@ header{
     color: #ffffffd0;
 }
 .hcgmail{
-    text-color:white;
+    color:white;
     font-size:17px;
     width:60%;
     display: flex;
@@ -106,7 +106,7 @@ header{
     align-items:center;
 }
 .hcphn{
-    text-color:white;
+    color:white;
     font-size: 15px;
     width:40%;
     padding-left: 20px;
