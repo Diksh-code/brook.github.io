@@ -275,7 +275,7 @@ header{
 }
 .section0{
     height:1090px;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.726), rgba(4, 3, 63, 0.596)), url('/images/IMG-20240620-WA0014.jpg');
+    background-image:linear-gradient(rgba(0, 0, 0, 0.726), rgba(4, 3, 63, 0.596)), url('IMG-20240620-WA0014.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -753,7 +753,7 @@ button:hover{
     transition-timing-function:ease;
 }
 .circle:hover{
-    /*background-image: url(image\IMG_20220701_134325.jpg);*/
+    /*background-image: url(IMG_20220701_134325.jpg);*/
     height:100%;
     width:100%;
     border-radius:12px 12px 0px 0px;
